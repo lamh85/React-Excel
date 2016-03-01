@@ -1,7 +1,7 @@
 class SpreadsheetsController < ApplicationController
 
-  def new
-    render 'new'
+  def index
+    render 'index'
   end
 
 end
